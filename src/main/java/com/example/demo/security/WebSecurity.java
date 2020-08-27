@@ -1,6 +1,7 @@
 package com.example.demo.security;
 
-import com.example.demo.service.impl.UserDetailsServiceImpl;
+
+import com.example.demo.service.UserDetailsServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpMethod;
 import org.springframework.security.authentication.AuthenticationManager;
